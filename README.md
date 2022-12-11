@@ -7,6 +7,7 @@
 - It's very personal, but I like " for string literals and // for comments
 ## About AI
 Please cooperate with development
+https://github.com/forestrharumaki/FpatrAI
 ## Small talk
 None
 
