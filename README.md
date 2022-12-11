@@ -4,6 +4,7 @@
 - I'm a japanese / 日本人
 - My faborite language is C# C++ and JS
 - I'm making AI now.
+- It's very personal, but I like " for string literals and // for comments
 ## About AI
 Please cooperate with development
 
