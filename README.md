@@ -5,7 +5,7 @@
 - My faborite language is C# C++ and JS
 - I'm making AI now.
 - It's very personal, but I like " for string literals and // for comments
-## About AI
+## About Fpatr AI
 Please cooperate with development
 https://github.com/forestrharumaki/FpatrAI
 ## Small talk
