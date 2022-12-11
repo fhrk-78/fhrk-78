@@ -7,6 +7,8 @@
 - It's very personal, but I like " for string literals and // for comments
 ## About AI
 Please cooperate with development
+## Small talk
+None
 
 <!---
 forestrharumaki/forestrharumaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
