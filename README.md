@@ -4,8 +4,8 @@
 令和はJavascriptの時代ですね。少ししか出来ない()
 
 <p align="left">
-<img alt="mostlang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
-<img alt="mystats" height="150px" src="https://github-readme-stats.vercel.app/api?username=forestrharumaki&count_private=true&show_icons=true">
+<img alt="mostlang" height="150px" src="github-readme-stats-zeta-gilt-73.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
+<img alt="mystats" height="150px" src="github-readme-stats-zeta-gilt-73.vercel.app/api?username=forestrharumaki&count_private=true&show_icons=true">
 </p>
 
 <!---
