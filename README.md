@@ -1,7 +1,7 @@
-# Hello world!🍕
-ピザ最高！永遠の初心者。
+# Hello world!🪐
+🍕ピザ最高！永遠の初心者。
 
-令和はJavascriptの時代ですね。**C#の方が好き(((((**
+🎁令和はJavascriptの時代ですね。**C#の方が好き(((((**
 
 <p align="left">
 <img alt="mostlang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
