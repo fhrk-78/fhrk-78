@@ -1,6 +1,4 @@
-# Hello world!🪐
-🍕ピザ最高！永遠の初心者。
-
+# 🍕ピザ最高！
 🎁令和はJavascriptの時代ですね。**C#の方が好き(((((**
 
 <p align="left">
