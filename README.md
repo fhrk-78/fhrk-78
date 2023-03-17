@@ -1,5 +1,5 @@
 # こんにちは、ピザ最高！🍕
-🎁Vue.jsがインストールできなくて萎えた
+🎁Vue.jsが使えなくて萎えた
 
 <img alt="mostlang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
 
