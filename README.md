@@ -1,5 +1,5 @@
 # こんにちは、ピザ最高！🍕
-🎁令和はJavascriptの時代ですね。**C#の方が好き(((((**
+🎁Vue.jsがインストールできなくて萎えた
 
 <img alt="mostlang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
 
