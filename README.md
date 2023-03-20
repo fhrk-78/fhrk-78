@@ -1,7 +1,4 @@
-# こんにちは、ピザ最高！🍕
-🎁Vue.jsが使えなくて萎えた
-
-🎁まあ、npmの所為なんだがね
+### こんにちは世界！
 
 <img alt="mostlang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact">
 
