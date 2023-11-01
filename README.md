@@ -1,1 +1,5 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=forestrharumaki&layout=compact&theme=vue)<br>
+・玉ねぎ
+・にんじん
+・じゃがいも
+・ルー
+・福神漬け
