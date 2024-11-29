@@ -15,3 +15,21 @@
 ## Others
 
 - [Qiita](https://qiita.com/fhrk_)
+
+## Skills
+
+**Lv.? : 愛用 / I like very, very much**
+
+[![My Skills](https://skillicons.dev/icons?i=pnpm,ts)](https://skillicons.dev)
+
+**Lv.2 : 結構理解してる / I understand it pretty well**
+
+[![My Skills](https://skillicons.dev/icons?i=css,express,git,go,gradle,html,java,js,kotlin,nodejs,npm,pinia,py,sqlite,vue,webpack)](https://skillicons.dev)
+
+**Lv.1-B : はるか昔に触ったことある / I've used it a long time ago.**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,cmake,docker,dotnet,electron,fastapi,haxe,mysql,php,postgres,rails,react,remix,sass,unity)](https://skillicons.dev)
+
+**Lv.1-A : ちょっとだけ触ったことある / I've tried it just a little bit.**
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,discordjs,django,flask,flutter,godot,nextjs,nginx,nuxtjs,powershell,prisma,raspberrypi,rust,yarn)](https://skillicons.dev)
