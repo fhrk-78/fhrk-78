@@ -32,4 +32,4 @@
 
 **Lv.1-A : ちょっとだけ触ったことある / I've tried it just a little bit.**
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,discordjs,django,flask,flutter,godot,nextjs,nginx,nuxtjs,powershell,prisma,raspberrypi,rust,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,discordjs,django,flask,flutter,godot,nextjs,nginx,nuxtjs,powershell,prisma,raspberrypi,rust,yarn,bun)](https://skillicons.dev)
